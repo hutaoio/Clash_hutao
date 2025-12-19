@@ -1,0 +1,27 @@
+# NAME: Clash_hutao
+# AUTHOR: hutao
+# REPO: https://github.com/hutaoio/Clash_hutao
+# UPDATED: 2025-12-09 09:18:50
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 18
+# TOTAL: 13
+payload:
+  - DOMAIN-SUFFIX,acggw.me
+  - DOMAIN-SUFFIX,lindong.xyz
+  - DOMAIN-SUFFIX,ez-captcha.com
+  - DOMAIN-SUFFIX,linshiguge.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,126.com
+  - DOMAIN-SUFFIX,sina.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,anaconda.com
+  - DOMAIN-SUFFIX,firefox.fun
+  - DOMAIN-SUFFIX,lebara.dk
+  - DOMAIN-SUFFIX,americaaddress.com
+  - DOMAIN-SUFFIX,yiyiyouxiang.shop
+  - DOMAIN-SUFFIX,56.al
+  - DOMAIN-SUFFIX,180767676.xyz
